@@ -1,0 +1,1 @@
+HTML practice following The Odin Project's curriculum.
